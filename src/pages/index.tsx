@@ -82,7 +82,7 @@ const IndexPage = () => {
             <li>
               <i className="icon-cash" />
               <div className="data-item__content">
-                <h4>Servicios100% seguros </h4>
+                <h4>Servicios 100% seguros </h4>
                 <p>
                   Sin baneos
 ni tampoco 
