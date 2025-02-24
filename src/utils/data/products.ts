@@ -1,8 +1,8 @@
 export const products = [
   {
     id: "1",
-    name: "T-Shirt Summer Vibes",
-    price: 119.99,
+    name: "500 Likes + 25 EXTRA – Instagram",
+    price: 9999.00,
     discount: 30,
     quantityAvailable: 2,
     category: "T-shirt",
@@ -62,8 +62,8 @@ export const products = [
   },
   {
     id: "2",
-    name: "T-Shirt Summer Vibes",
-    price: 119.99,
+    name: "500 Seguidores + 25 EXTRA – Instagram",
+    price: 11999.00,
     quantityAvailable: 2,
     category: "T-shirt",
     currentPrice: 89.99,
@@ -122,8 +122,8 @@ export const products = [
   },
   {
     id: "3",
-    name: "T-Shirt Summer Vibes",
-    price: 119.99,
+    name: "1000 Seguidores + 50 EXTRA – Instagram",
+    price: 14999.00,
     quantityAvailable: 2,
     category: "T-shirt",
     currentPrice: 89.99,
@@ -182,8 +182,8 @@ export const products = [
   },
   {
     id: "4",
-    name: "T-Shirt Summer Vibes",
-    price: 119.99,
+    name: "1000 Likes + 100 EXTRA – Instagram",
+    price: 14999.00,
     quantityAvailable: 2,
     category: "T-shirt",
     currentPrice: 89.99,
@@ -242,8 +242,8 @@ export const products = [
   },
   {
     id: "5",
-    name: "T-Shirt Summer Vibes",
-    price: 119.99,
+    name: "1000 Views Reel/IGTV – Instagram",
+    price: 14999.00,
     quantityAvailable: 2,
     category: "T-shirt",
     currentPrice: 89.99,
@@ -302,8 +302,8 @@ export const products = [
   },
   {
     id: "6",
-    name: "T-Shirt Summer Vibes",
-    price: 119.99,
+    name: "50 Comentarios Personalizados + 2 EXTRA – Instagram",
+    price: 14999.00,
     discount: 30,
     quantityAvailable: 2,
     category: "T-shirt",
