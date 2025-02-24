@@ -53,7 +53,7 @@ const IndexPage = () => {
       <section className="section">
         <div className="container">
           <header className="section__intro">
-            <h4>Porque elegir Ceratti como tu Aliado?</h4>
+            <h4>¿Porque elegir CERETTI como tu aliado?</h4>
           </header>
 
           <ul className="shop-data-items">
