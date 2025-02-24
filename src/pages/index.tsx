@@ -25,7 +25,7 @@ const IndexPage = () => {
           </article>
 
           <article
-            style={{ backgroundImage: "url(/images/youtube.jpg)" }}
+            style={{ backgroundImage: "url(/images/Youtube.jpg)" }}
             className="featured-item featured-item-small-first"
           >
             <div className="featured-item__content">
@@ -41,7 +41,7 @@ const IndexPage = () => {
             className="featured-item featured-item-small"
           >
             <div className="featured-item__content">
-              <h3>Sale this summer</h3>
+              <h3>Facebook</h3>
               <a href="#" className="btn btn--rounded">
                 Hasta un 50% OFF
               </a>
