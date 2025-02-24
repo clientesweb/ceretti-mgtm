@@ -17,7 +17,7 @@ const PageIntro = () => {
                 <h2>Sale of the summer collection</h2>
                 <a href="#" className="btn-shop">
                   <i className="icon-right" />
-                  Shop now
+                  Explorar
                 </a>
               </div>
             </div>
@@ -48,24 +48,24 @@ const PageIntro = () => {
             <li>
               <i className="icon-shipping" />
               <div className="data-item__content">
-                <h4>Free Shipping</h4>
-                <p>On purchases over $199</p>
+                <h4>Envío garantizado</h4>
+                <p>Tenemos ofertas increíbles</p>
               </div>
             </li>
 
             <li>
               <i className="icon-shipping" />
               <div className="data-item__content">
-                <h4>99% Satisfied Customers</h4>
-                <p>Our clients' opinions speak for themselves</p>
+                <h4>99% Satisfacción</h4>
+                <p>La mejor atención y calidad</p>
               </div>
             </li>
 
             <li>
               <i className="icon-cash" />
               <div className="data-item__content">
-                <h4>Originality Guaranteed</h4>
-                <p>30 days warranty for each product from our store</p>
+                <h4>Servicio Garantizado</h4>
+                <p>30 días de garantía</p>
               </div>
             </li>
           </ul>
