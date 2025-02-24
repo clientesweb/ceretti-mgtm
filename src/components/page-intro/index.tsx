@@ -14,7 +14,7 @@ const PageIntro = () => {
           >
             <div className="container">
               <div className="page-intro__slide__content">
-                <h2>Tus redes a otro nivel</h2>
+                <h2>Lleva tus redes a otro nivel</h2>
                 <a href="#" className="btn-shop">
                   <i className="icon-right" />
                   Explorar
