@@ -34,7 +34,7 @@ const PageIntro = () => {
                 <h2>¡Más alcance, más impacto!</h2>
                 <a href="#" className="btn-shop">
                   <i className="icon-right" />
-                  Shop now
+                  Contáctanos 
                 </a>
               </div>
             </div>
