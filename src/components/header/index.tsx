@@ -62,18 +62,18 @@ const Header = ({ isErrorPage }: HeaderType) => {
         <Link href="/">
           <h1 className="site-logo">
             <Logo />
-            Ceretti Mgtm
+            CERETTI-MGTM
           </h1>
         </Link>
         <nav
           ref={navRef}
           className={`site-nav ${menuOpen ? "site-nav--open" : ""}`}
         >
-          <Link href="#">Products</Link>
-          <a href="#">Inspiration</a>
-          <a href="#">Rooms</a>
+          <Link href="#">Servicios</Link>
+          <a href="#">Promociones</a>
+          <a href="#">Tienda</a>
           <button className="site-nav__btn">
-            <p>Account</p>
+            <p>Ingresar</p>
           </button>
         </nav>
 
