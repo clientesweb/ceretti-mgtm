@@ -1,9 +1,7 @@
-import logo from 'public/logo.png';
-
 const Logo = () => {
   return (
     <img 
-      src={logo} 
+      src="/logo.png" 
       alt="Logo" 
       width="45.77" 
       height="35.001" 
