@@ -10,14 +10,14 @@ const PageIntro = () => {
         <SwiperSlide>
           <div
             className="page-intro__slide"
-            style={{ backgroundImage: "url('/images/slide-1.jpg')" }}
+            style={{ backgroundImage: "url('/images/slider.jpg')" }}
           >
             <div className="container">
               <div className="page-intro__slide__content">
-                <h2>Sale of the summer collection</h2>
+                <h2>Próximamente estaremos en línea</h2>
                 <a href="#" className="btn-shop">
                   <i className="icon-right" />
-                  Shop now
+                  Tic Tac
                 </a>
               </div>
             </div>
