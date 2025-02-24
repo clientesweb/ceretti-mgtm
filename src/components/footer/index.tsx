@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="site-footer__top">
           <div className="site-footer__description">
             <h6>
-              <Logo /> <span>CERATTK</span>-MGTM
+              <Logo /> <span>CERETTI</span>-MGTM
             </h6>
             <p>
               Impulsa tu presencia en redes sociales con nuestra estrategia profesional. Compra seguidores, vistas y likes para Instagram y haz crecer tu marca. 🚀✨
